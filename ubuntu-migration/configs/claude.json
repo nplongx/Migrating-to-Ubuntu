@@ -1,0 +1,25 @@
+{
+  "installMethod": "native",
+  "autoUpdates": false,
+  "firstStartTime": "2026-09-01T11:21:44.158Z",
+  "firstStartVersion": "2.1.252",
+  "machineID": "b3e6f6bd6e309f5d05e36c9b454bf1fb28dc4b4d0575be152f705d156cde9707",
+  "opusProMigrationComplete": true,
+  "sonnet1m45MigrationComplete": true,
+  "seenNotifications": {},
+  "hasResetAutoModeOptInForDefaultOffer": true,
+  "migrationVersion": 13,
+  "userID": "adc1a529fb74217733a5993c23922f186a5b5cd4a00351bda25b2c40cb8cb436",
+  "changelogLastFetched": 1788261704700,
+  "autoUpdatesProtectedForNative": true,
+  "mcpServers": {
+    "codegraph": {
+      "type": "stdio",
+      "command": "codegraph",
+      "args": [
+        "serve",
+        "--mcp"
+      ]
+    }
+  }
+}

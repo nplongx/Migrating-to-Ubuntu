@@ -1,0 +1,5 @@
+argagg 0.4.7-3
+google-chrome 152.0.7977.82-1
+parallel-hashmap 2.0.0-1
+python-pkg_resources 81.0.0-1
+wezterm-git 20240203.110809.r879.g6f8b1d4-1

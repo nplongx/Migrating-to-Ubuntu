@@ -1,0 +1,19 @@
+UNIT FILE                          STATE   PRESET
+avahi-daemon.service               enabled disabled
+docker.service                     enabled disabled
+firewalld.service                  enabled disabled
+getty@.service                     enabled enabled
+lightdm.service                    enabled disabled
+lm_sensors.service                 enabled disabled
+NetworkManager-dispatcher.service  enabled disabled
+NetworkManager-wait-online.service enabled disabled
+NetworkManager.service             enabled disabled
+ollama.service                     enabled disabled
+power-profiles-daemon.service      enabled disabled
+systemd-timesyncd.service          enabled enabled
+avahi-daemon.socket                enabled disabled
+systemd-userdbd.socket             enabled enabled
+remote-fs.target                   enabled enabled
+fstrim.timer                       enabled disabled
+
+16 unit files listed.
